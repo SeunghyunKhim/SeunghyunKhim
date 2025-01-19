@@ -6,4 +6,4 @@ permalink: /about
 
 *This is an about page.*
 
-Feel free to tell the world about what you love! 😍
+독일에서 물리학을 연구하고 있습니다.
