@@ -1,5 +1,6 @@
 ---
 title: 자전거
+category: 자전거
 ---
 
 Kona Sutra LTD

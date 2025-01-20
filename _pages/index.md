@@ -9,6 +9,10 @@ permalink: /
 
 ###  [[about|About me / 소개]]
 
+### If you are interested in my research, please click here 
+### 저의 물리 연구에 관심이 있으시면 여기로 들어오세요. [[research|연구]]
+
+
 이 블로그를 Steph Ango 의 ['file-over-app'](https://stephango.com/file-over-app)에 영향을 받아 만들게 되었다.
 Maxime Vaillancourt의 [github와 netlify를 이용한 블로그 만들기](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) 를 참고했다.
 
@@ -16,7 +20,7 @@ Maxime Vaillancourt의 [github와 netlify를 이용한 블로그 만들기](http
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 10 %}
+  {% for note in recent_notes limit: 5 %}
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
