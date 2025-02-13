@@ -15,7 +15,24 @@ Usually it is an electron which carries a spin and charge.
 Philip Ball [[critical mass]].  
 
 
-
-
 Experimentally, my approach is to prepare, develope bulk single-crystalline material systems.
 I need chemistry but I'm not a chemist.
+
+
+
+### From global to local
+
+ Gauge invariance applies to statistical mechanics too
+https://pubs.aip.org/physicstoday/article/78/2/11/3332548/Gauge-invariance-applies-to-statistical-mechanics
+
+
+Gauging Quantum States: From Global to Local Symmetries in Many-Body Systems
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011024
+
+Nonsymmorphic symmetry-required band crossings in topological semimetals
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.195109
+
+
+Momentum space imaging of nonsymmorphic superconductors with locally broken inversion symmetry
+https://link.springer.com/article/10.1140/epjb/s10051-021-00080-4
+
