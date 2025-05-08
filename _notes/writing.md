@@ -3,6 +3,10 @@ title: 글쓰기
 tag: writing
 ---
 
+글쓰기는 어렵다.
+더더욱 갈고 닦아야 하는 기술이다.
+
+
 폴 그래엄
 https://paulgraham.com/index.html
 

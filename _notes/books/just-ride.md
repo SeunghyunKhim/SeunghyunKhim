@@ -60,3 +60,9 @@ category: book
 Restrap Bar Bag Gepäckrolle mit 14L Packsack und Food Pouch 3L - schwarz / orange
 https://www.bike24.de/p1381301.html
 
+
+### 202505 핸들바백 구입
+Restrap 제품으로 구입.
+Ortlieb 제품을 살까 고민하다가. 더 큰 회사. 유저가 많아보임.
+아내가 이게 더 예쁘다고 해서.
+간단히 핸드폰과 열쇠를 넣을 용도. 그런데 이 둘을 같은 주머니에 넣으면 핸드폰에 스크래치가 날 위험이 있다.
