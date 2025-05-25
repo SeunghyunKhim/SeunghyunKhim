@@ -7,8 +7,7 @@ tag: writing
 더더욱 갈고 닦아야 하는 기술이다.
 
 
-폴 그래엄
-https://paulgraham.com/index.html
+[폴 그래엄](https://paulgraham.com/index.html)
 
 
 I just realized something most people are going to lose when (as they inevitably will) they start using AIs to write everything for them. They'll lose the knowledge of how writing is constructed.
