@@ -17,3 +17,6 @@ I also play table tennis player in a local club league.
 [[2025-reading-list|책읽기]]를 좋아합니다.
 
 <img src="{{ site.baseurl }}/assets/my_pic_2025.jpg"/>
+
+
+{% include search-form.html %}

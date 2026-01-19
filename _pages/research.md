@@ -18,6 +18,16 @@ Philip Ball [[critical mass]].
 Experimentally, my approach is to prepare, develope bulk single-crystalline material systems.
 I need chemistry but I'm not a chemist.
 
+### Presentation
+(Invited) 2025-12-18 3rd Quantum Crystal Workshop 
+Seoul National Univerisity
+https://sites.google.com/view/qcw2026/program?authuser=0
+
+
+
+
+### Publication
+
 
 
 ### From global to local
@@ -35,4 +45,7 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.195109
 
 Momentum space imaging of nonsymmorphic superconductors with locally broken inversion symmetry
 https://link.springer.com/article/10.1140/epjb/s10051-021-00080-4
+
+
+
 

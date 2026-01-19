@@ -4,8 +4,6 @@ category: camping
 ---
 2019년 7월 자동차를 산 이후부터 캠핑을 다니기 시작했다.
 
-
-
 ## 2019 년
 ### 2019/08/24-25 @ Camping "Thorwaldblick"
 ![alt text](../assets/camping_20190826_062731798_iOS.jpg)

@@ -1,0 +1,9 @@
+---
+
+[
+  {% for note in site.notes %}
+    {
+      "title"    : "{{ note.title }}",
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
